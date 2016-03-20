@@ -1,8 +1,8 @@
-**Add score**
+**Add customer with score**
 ----
 * **URL**
 
-  /scores
+  /customers
 
 * **Method:**
 
@@ -17,14 +17,22 @@
    `customer-score=[float]`
 
    **Required at least 5 customer identfication parameters:**
+
    `customer-email=[string]`
+
    `customer-postcode=[string]`
+
    `customer-country=[string]`
+
     .....
 
 * **Success Response:**
 
   * **Code:** 201 CREATED
+
+  OR
+
+  * **Code:** 204 UPDATED
 
 **Retrieve score**
 ----
@@ -32,7 +40,7 @@
 
 * **URL**
 
-  /scores/
+  /customers?parameters
 
 * **Method:**
 
@@ -41,15 +49,19 @@
 *  **URL Params**
 
    **Required at least 5 customer identfication parameters:**
+
    `customer-email=[string]`
+
    `customer-postcode=[string]`
+
    `customer-country=[string]`
+
     .....
 
 * **Success Response:**
 
-  * **Code:** 200 <br />
-    **Content:** `{ id : 12, score: 80 }`
+  * **Code:** 200 SUCCESS <br />
+    **Content:** `{ customer-id : 12, customer-score: 80 }`
  
 * **Error Response:**
 
