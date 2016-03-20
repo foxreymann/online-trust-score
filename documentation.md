@@ -1,12 +1,15 @@
-**what is it**
+**what it is**
 ---
 
 A portable sharing economy trust score
 
 Challenge #3 from Route 66 Ventures
 
-Portable sharing economy trust score API
+Shared between sharing economy platforms trust score API
 
+Collects user ratings from sharing economy platforms
+
+Returns aggregated user's trust score
 <br />
 <br />
 <br />
@@ -103,7 +106,9 @@ fraud check on new platform customers
 <br />
 **marketing**
 ---
-sales team calling sharing saring economy platforms
+marketing materials
+
+great sales team calling sharing saring economy platforms
 
 <br />
 <br />
@@ -271,6 +276,34 @@ new sharing economy platforms
 
   * **Code:** 204 UPDATED
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 **Retrieve score**
 ----
   Returns calculated trust score if customer is found
@@ -285,7 +318,7 @@ new sharing economy platforms
   
 *  **URL Params**
 
-   **Required at least 5 customer identfication parameters:**
+   **Required at least 3 customer identfication parameters:**
 
    `customer-email=[string]`
 
@@ -335,14 +368,12 @@ new sharing economy platforms
 <br />
 **Questions**
 ----
-I'm Fox Reymann
+<br />
+<br />
+**Who am I**
+----
+Fox Reymann, London based consultant / contractor
 
-foxreymann@gmail.com
+Services: Full Stack Web Development, Network Administration, System Administration
 
-London based consultant/contractor
-
-Web Development (JavaScript)
-
-Network Administration (Cisco, Juniper...)
-
-System Administration (Linux, Virtrualization, web and networking services)
+Contact: foxreymann@gmail.com
