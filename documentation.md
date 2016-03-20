@@ -14,9 +14,13 @@
  
    `platform-id=[integer]`
 
-   `score=[float]` - customer score on the platform
+   `customer-score=[float]`
 
-   **Required at least 4 customer identfication parameters:**
+   **Required at least 5 customer identfication parameters:**
+   `customer-email=[string]`
+   `customer-postcode=[string]`
+   `customer-country=[string]`
+    .....
 
 * **Success Response:**
 
@@ -36,10 +40,18 @@
   
 *  **URL Params**
 
-   **Required:**
+   **Required at least 5 customer identfication parameters:**
+   `customer-email=[string]`
+   `customer-postcode=[string]`
+   `customer-country=[string]`
+    .....
+
+* **Success Response:**
+
+  * **Code:** 200 <br />
+    **Content:** `{ id : 12, score: 80 }`
  
-   `id=[integer]`
+* **Error Response:**
 
-* **Data Params**
-
-  None
+  * **Code:** 404 NOT FOUND <br />
+    **Content:** `{ error : "Customer doesn't exist" }`
