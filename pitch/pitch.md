@@ -1,6 +1,8 @@
 **what it is**
 ---
 
+Online trust score
+
 A portable sharing economy trust score
 
 Challenge #3 from Route 66 Ventures
@@ -12,9 +14,11 @@ Collects user ratings from sharing economy platforms
 Returns aggregated user's trust score
 
 
+
 **who it serves**
 ---
 all sharing economy platforms interested in gathering data about their customers
+
 
 
 **what problem is solves**
@@ -23,11 +27,13 @@ no rating for new platform customers
 
 fraud check on new platform customers
 
+
 **marketing**
 ---
 marketing materials
 
 great sales team calling sharing saring economy platforms
+
 
 **costs**
 ---
@@ -37,14 +43,17 @@ dev team + web hosting
 
 sales & customer relations team
 
+
 **revenue**
 ---
 small fee from customers which are big sharing economy platforms
 
 new sharing economy platforms
 
+
 **demo time**
 ----
+
 
 
 **Add customer with score**
@@ -83,6 +92,7 @@ new sharing economy platforms
 
   * **Code:** 204 UPDATED
 
+
 **Retrieve score**
 ----
   Returns calculated trust score if customer is found
@@ -117,10 +127,12 @@ new sharing economy platforms
   * **Code:** 404 NOT FOUND <br />
     **Content:** `{ error : "Customer doesn't exist" }`
 
+
 **Questions**
 ----
 <br />
 <br />
+
 **Who am I**
 ----
 Fox Reymann, London based consultant / contractor
