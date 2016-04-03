@@ -11,9 +11,11 @@ Collects user ratings from sharing economy platforms
 
 Returns aggregated user's trust score
 
+
 **who it serves**
 ---
 all sharing economy platforms interested in gathering data about their customers
+
 
 **what problem is solves**
 ---
