@@ -19,6 +19,14 @@ Market research clearly shows no successful similar product in existence.
 
 **what problem it solves**
 ---
+Validate trustworthness of a person met online.
+
+*use case:*
+In countries where same sex partnerships are illegal, police have been known to arrange to meet people through dating sites and then arrest them. A mechanism to verify someone is real, without revealing identifying information to you, could be valuable.
+
+
+**what problem it solves**
+---
 
 no rating for new platform customers
 
