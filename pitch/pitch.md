@@ -1,13 +1,15 @@
 **what it is**
 ---
-
 Online trust score
 
 Trust/credit score based on online economy ratings and social platform presence
 
-When feed, collects user data/ratings from online economy and social platforms
 
-When asked, returns calculated person's trust score
+**what it is in other words**
+---
+When feed, collects user ratings from online economy and social platforms
+
+When asked, returns person's trust score
 
 
 **what problem it solves**
@@ -27,10 +29,12 @@ In countries where same sex partnerships are illegal, police have been known to 
 
 **what problem it solves**
 ---
+Fraud check on new online platform users
 
-no rating for new platform customers
 
-fraud check on new platform customers
+**what problem it solves**
+---
+No rating for new platform customers
 
 
 **who it serves**
