@@ -61,9 +61,16 @@ low
 
 data comes for free
 
-dev team + web hosting
+dev team for API with simple web interface
 
 sales & customer relations team
+
+
+**marketing**
+---
+marketing materials - website, pdf presentations, talks
+
+great sales team contacting online platforms
 
 
 **fund raise**
@@ -79,10 +86,3 @@ I am seeking a seed investment of 3k to 6k, based on a 15k valuation for the bus
 3 pomodoros for  12GBP
 
 PayPal transfer to foxreymann@gmail.com
-
-
-**marketing**
----
-marketing materials - website, pdf presentations, talks
-
-great sales team calling/e-mailing online platforms
