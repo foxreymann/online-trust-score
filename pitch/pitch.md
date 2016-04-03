@@ -5,18 +5,22 @@ Online trust score
 Trust/credit score based on online economy ratings and social platform presence
 
 
-**what it is in other words**
+**what it is**
 ---
-When feed, collects user ratings from online economy and social platforms
+A web app that:
 
-When asked, returns person's trust score
+when hungry, collects user ratings from online economy and social platforms
+
+when asked, returns person's trust score
 
 
 **what problem it solves**
 ---
-There is a market need, reported for example by USA based Route 66 Ventures
+There is a market need, reported for example by USA based Route 66 Ventures(1)
 
 Market research clearly shows no successful similar product in existence.
+
+(1)www.startupbootcamp.org/blog/2016/march/startupbootcamp-fintech-hacked-that-pot-ogold-on-st.-patricks-weekend.html
 
 
 **what problem it solves**
@@ -39,25 +43,22 @@ No rating for new platform customers
 
 **who it serves**
 ---
-all sharing economy platforms interested in gathering data about their customers
+Internet users in need of validation other person's trustworthness
+
+All web platforms interested in gathering and using data about their customers
 
 
-**use case 1**
+**revenue**
 ---
+free web interface access for individuals
 
-
-
-
-
-**marketing**
----
-marketing materials
-
-great sales team calling sharing saring economy platforms
+paid API access for web platforms
 
 
 **costs**
 ---
+low
+
 data comes for free
 
 dev team + web hosting
@@ -65,12 +66,23 @@ dev team + web hosting
 sales & customer relations team
 
 
-**revenue**
+**fund raise**
 ---
-small fee from customers which are big sharing economy platforms
-
-new sharing economy platforms
+I am seeking a seed investment of 3k to 6k, based on a 15k valuation for the business
 
 
-**technical design**
-----
+**fund raise**
+---
+
+**SALE SALE SALE**
+
+3 pomodoros for  12GBP
+
+PayPal transfer to foxreymann@gmail.com
+
+
+**marketing**
+---
+marketing materials - website, pdf presentations, talks
+
+great sales team calling/e-mailing online platforms
