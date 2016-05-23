@@ -80,18 +80,3 @@ great sales team contacting online platforms
 work experience proving that I can lead this product from an idea to a success
 
 (10 years in professional web development, ex startup CTO, ex startup co-founder)
-
-
-**fund raise**
----
-I am seeking a seed investment of 3k to 6k, based on a 15k valuation for the business
-
-
-**fund raise**
----
-
-**SALE SALE SALE**
-
-3 pomodoros for  12GBP
-
-PayPal transfer to foxreymann@gmail.com
