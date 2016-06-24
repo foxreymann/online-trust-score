@@ -1,8 +1,8 @@
 **what it is**
 ---
-**Online Trust Score**
+**WebTruster**
 
-Trust/credit score based on online economy ratings and social platform presence
+Trust/credit/reputation score based on online economy ratings and social platform presence
 
 
 **what it is**
